@@ -1,2 +1,2 @@
 # VirtuaCoin
-Real virtual coin convert
+Real virtual coin converter
