@@ -32,3 +32,15 @@ class ConverterViewController: UIViewController, UIPickerViewDelegate, UIPickerV
     
     // MARK: - UIPicker delegate and protocols
     func numberOfComponents(in pickerView: UIPickerView) -> Int {
+        return 1
+    }
+    
+    func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
+
+        if pickerView == coinPicker {
+            return coins[row]
+        }
+        return currencies[row]
+    }
+
+    func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
