@@ -26,3 +26,9 @@ class ConverterViewController: UIViewController, UIPickerViewDelegate, UIPickerV
         
         // Input the data into the array
         coins = ["Coin 1", "Coin 2", "Coin 3", "Coin 4"]
+        currencies = ["Currency 1", "Currency 2", "Currency 3", "Currency 4", "Currency 5", "Currency 6"]
+    }
+
+    
+    // MARK: - UIPicker delegate and protocols
+    func numberOfComponents(in pickerView: UIPickerView) -> Int {
