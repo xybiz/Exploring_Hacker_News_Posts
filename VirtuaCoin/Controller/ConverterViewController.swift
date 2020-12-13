@@ -44,3 +44,11 @@ class ConverterViewController: UIViewController, UIPickerViewDelegate, UIPickerV
     }
 
     func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
+
+        if pickerView == coinPicker {
+            return coins.count
+        }
+        return currencies.count
+
+    }
+}
