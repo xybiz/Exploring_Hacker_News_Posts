@@ -16,4 +16,4 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" fixedFrame="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="Rfr-Qc-FIr">
-                                <rect key="frame" x="110" y="44" width="173.5" h
+                                <rect key="frame" x="110" y="44" width="173.5" height="48.5
