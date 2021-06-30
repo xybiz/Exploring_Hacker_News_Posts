@@ -18,4 +18,4 @@
                             <stackView opaque="NO" contentMode="scaleToFill" fixedFrame="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="Rfr-Qc-FIr">
                                 <rect key="frame" x="110" y="44" width="173.5" height="48.5"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="VirtuaCoin" textAlignment="center" lineBreakMode="tailTruncat
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="VirtuaCoin" textAlignment="center" lineBreakMode="tailTruncation" number
