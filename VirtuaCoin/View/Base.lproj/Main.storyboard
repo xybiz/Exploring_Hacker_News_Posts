@@ -21,4 +21,4 @@
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="VirtuaCoin" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="j17-rj-OeP">
                                         <rect key="frame" x="0.0" y="0.0" width="173.5" height="48.5"/>
                                         <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="35"/>
-                                        <color key="textColor" red="0.8784313725000
+                                        <color key="textColor" red="0.87843137250000003" green="
