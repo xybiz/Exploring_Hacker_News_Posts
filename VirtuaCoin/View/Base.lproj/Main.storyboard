@@ -28,4 +28,4 @@
                                     </label>
                                 </subviews>
                             </stackView>
-                            <pickerView contentMod
+                            <pickerView contentMode="scaleToFill"
