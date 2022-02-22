@@ -28,4 +28,4 @@
                                     </label>
                                 </subviews>
                             </stackView>
-                            <pickerView contentMode="scaleToFill" fixedFrame="
+                            <pickerView contentMode="scaleToFill" fixedFrame="YES" transla
