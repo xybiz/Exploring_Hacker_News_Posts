@@ -28,4 +28,4 @@
                                     </label>
                                 </subviews>
                             </stackView>
-                            <pickerView contentMode="scaleToFill" fixedFrame="YES" transla
+                            <pickerView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresiz
