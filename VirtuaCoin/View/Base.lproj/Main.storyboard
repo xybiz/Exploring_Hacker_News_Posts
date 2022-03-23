@@ -29,4 +29,4 @@
                                 </subviews>
                             </stackView>
                             <pickerView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="cb6-Am-9l8" userLabel="CoinPicker">
-                 
+                        
