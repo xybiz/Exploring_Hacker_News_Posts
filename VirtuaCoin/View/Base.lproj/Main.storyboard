@@ -33,4 +33,4 @@
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                             </pickerView>
                             <pickerView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="UWC-ai-Awt" userLabel="CurrencyPicker">
-                                <rect key="frame" x="0.0" y="381" width="414" h
+                                <rect key="frame" x="0.0" y="381" width="414" height="16
