@@ -42,4 +42,4 @@
                     </view>
                     <connections>
                         <outlet property="coinPicker" destination="cb6-Am-9l8" id="HK1-qz-Z80"/>
-                        <outlet property="c
+                        <outlet property="currencyPicker"
