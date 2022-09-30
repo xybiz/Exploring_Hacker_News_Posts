@@ -45,4 +45,4 @@
                         <outlet property="currencyPicker" destination="UWC-ai-Awt" id="YUm-G1-a5B"/>
                     </connections>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstR
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
