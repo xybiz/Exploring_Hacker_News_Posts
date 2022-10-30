@@ -1,0 +1,12 @@
+
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C302D0BF253C7C6A00325257 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C302D0BE253C7C6A00325257 /* AppDelegate.swift */; };
+		C302D0C1253C7C6A00325257 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C302D0C0253C7C6A00325257 /* SceneDelegate.swift */; };
