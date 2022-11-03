@@ -35,3 +35,16 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C302D0B2253C7C6A00325257 = {
+			isa = PBXGroup;
+			children = (
+				C302D0BD253C7C6A00325257 /* VirtuaCoin */,
+				C302D0BC253C7C6A00325257 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C302D0BC253C7C6A00325257 /* Products */ = {
+			isa = PBXGroup;
