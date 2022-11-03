@@ -10,3 +10,18 @@
 /* Begin PBXBuildFile section */
 		C302D0BF253C7C6A00325257 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C302D0BE253C7C6A00325257 /* AppDelegate.swift */; };
 		C302D0C1253C7C6A00325257 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C302D0C0253C7C6A00325257 /* SceneDelegate.swift */; };
+		C302D0C3253C7C6A00325257 /* ConverterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C302D0C2253C7C6A00325257 /* ConverterViewController.swift */; };
+		C302D0C6253C7C6A00325257 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C302D0C4253C7C6A00325257 /* Main.storyboard */; };
+		C302D0C8253C7C7000325257 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C302D0C7253C7C7000325257 /* Assets.xcassets */; };
+		C302D0CB253C7C7000325257 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C302D0C9253C7C7000325257 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C302D0BB253C7C6A00325257 /* VirtuaCoin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VirtuaCoin.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C302D0BE253C7C6A00325257 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C302D0C0253C7C6A00325257 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		C302D0C2253C7C6A00325257 /* ConverterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterViewController.swift; sourceTree = "<group>"; };
+		C302D0C5253C7C6A00325257 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C302D0C7253C7C7000325257 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C302D0CA253C7C7000325257 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C302D0CC253C7C7000325257 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
