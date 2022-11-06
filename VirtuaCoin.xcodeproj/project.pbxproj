@@ -48,3 +48,12 @@
 		};
 		C302D0BC253C7C6A00325257 /* Products */ = {
 			isa = PBXGroup;
+			children = (
+				C302D0BB253C7C6A00325257 /* VirtuaCoin.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C302D0BD253C7C6A00325257 /* VirtuaCoin */ = {
+			isa = PBXGroup;
+			children = (
