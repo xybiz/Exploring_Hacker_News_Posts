@@ -57,3 +57,14 @@
 		C302D0BD253C7C6A00325257 /* VirtuaCoin */ = {
 			isa = PBXGroup;
 			children = (
+				C302D0D6253CB84500325257 /* Controller */,
+				C302D0D5253CB83E00325257 /* View */,
+				C302D0D4253CB83200325257 /* Model */,
+				C302D0BE253C7C6A00325257 /* AppDelegate.swift */,
+				C302D0C0253C7C6A00325257 /* SceneDelegate.swift */,
+				C302D0C7253C7C7000325257 /* Assets.xcassets */,
+				C302D0C9253C7C7000325257 /* LaunchScreen.storyboard */,
+				C302D0CC253C7C7000325257 /* Info.plist */,
+			);
+			path = VirtuaCoin;
+			sourceTree = "<group>";
