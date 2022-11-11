@@ -68,3 +68,15 @@
 			);
 			path = VirtuaCoin;
 			sourceTree = "<group>";
+		};
+		C302D0D4253CB83200325257 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		C302D0D5253CB83E00325257 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C302D0C4253C7C6A00325257 /* Main.storyboard */,
