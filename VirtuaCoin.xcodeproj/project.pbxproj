@@ -92,3 +92,18 @@
 			path = Controller;
 			sourceTree = "<group>";
 		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C302D0BA253C7C6A00325257 /* VirtuaCoin */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C302D0CF253C7C7000325257 /* Build configuration list for PBXNativeTarget "VirtuaCoin" */;
+			buildPhases = (
+				C302D0B7253C7C6A00325257 /* Sources */,
+				C302D0B8253C7C6A00325257 /* Frameworks */,
+				C302D0B9253C7C6A00325257 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
