@@ -107,3 +107,13 @@
 			);
 			dependencies = (
 			);
+			name = VirtuaCoin;
+			productName = VirtuaCoin;
+			productReference = C302D0BB253C7C6A00325257 /* VirtuaCoin.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C302D0B3253C7C6A00325257 /* Project object */ = {
+			isa = PBXProject;
