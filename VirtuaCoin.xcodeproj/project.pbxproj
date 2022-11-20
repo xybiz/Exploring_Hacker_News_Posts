@@ -117,3 +117,12 @@
 /* Begin PBXProject section */
 		C302D0B3253C7C6A00325257 /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+				TargetAttributes = {
+					C302D0BA253C7C6A00325257 = {
+						CreatedOnToolsVersion = 12.0.1;
+					};
+				};
+			};
