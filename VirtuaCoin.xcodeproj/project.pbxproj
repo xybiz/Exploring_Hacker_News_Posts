@@ -126,3 +126,11 @@
 					};
 				};
 			};
+			buildConfigurationList = C302D0B6253C7C6A00325257 /* Build configuration list for PBXProject "VirtuaCoin" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
