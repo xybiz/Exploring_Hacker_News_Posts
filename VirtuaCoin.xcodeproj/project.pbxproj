@@ -134,3 +134,21 @@
 				en,
 				Base,
 			);
+			mainGroup = C302D0B2253C7C6A00325257;
+			productRefGroup = C302D0BC253C7C6A00325257 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C302D0BA253C7C6A00325257 /* VirtuaCoin */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C302D0B9253C7C6A00325257 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C302D0CB253C7C7000325257 /* LaunchScreen.storyboard in Resources */,
+				C302D0C8253C7C7000325257 /* Assets.xcassets in Resources */,
+				C302D0C6253C7C6A00325257 /* Main.storyboard in Resources */,
