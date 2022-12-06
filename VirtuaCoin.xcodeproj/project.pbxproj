@@ -162,3 +162,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C302D0C3253C7C6A00325257 /* ConverterViewController.swift in Sources */,
+				C302D0BF253C7C6A00325257 /* AppDelegate.swift in Sources */,
+				C302D0C1253C7C6A00325257 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C302D0C4253C7C6A00325257 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
