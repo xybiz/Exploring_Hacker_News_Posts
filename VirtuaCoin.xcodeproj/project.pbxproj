@@ -174,3 +174,13 @@
 		C302D0C4253C7C6A00325257 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
+				C302D0C5253C7C6A00325257 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C302D0C9253C7C7000325257 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C302D0CA253C7C7000325257 /* Base */,
+			);
