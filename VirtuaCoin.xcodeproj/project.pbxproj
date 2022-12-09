@@ -184,3 +184,9 @@
 			children = (
 				C302D0CA253C7C7000325257 /* Base */,
 			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
