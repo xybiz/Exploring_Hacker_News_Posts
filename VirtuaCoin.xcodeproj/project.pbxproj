@@ -344,3 +344,13 @@
 			};
 			name = Release;
 		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C302D0B6253C7C6A00325257 /* Build configuration list for PBXProject "VirtuaCoin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C302D0CD253C7C7000325257 /* Debug */,
+				C302D0CE253C7C7000325257 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
