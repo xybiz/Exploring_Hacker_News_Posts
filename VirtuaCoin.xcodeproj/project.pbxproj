@@ -354,3 +354,14 @@
 				C302D0CE253C7C7000325257 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C302D0CF253C7C7000325257 /* Build configuration list for PBXNativeTarget "VirtuaCoin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C302D0D0253C7C7000325257 /* Debug */,
+				C302D0D1253C7C7000325257 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
