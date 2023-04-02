@@ -6,4 +6,5 @@
 	<dict>
 		<key>VirtuaCoin.xcscheme_^#shared#^_</key>
 		<dict>
-			<key>orderHin
+			<key>orderHint</key>
+			<integer>
